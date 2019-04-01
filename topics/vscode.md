@@ -31,3 +31,13 @@ results in
     </thead>
 </table>
 ```
+# Extensions currently using
+
+-   Auto rename tag
+-   CSS peak
+-   dotENV
+-   GitHistory
+-   Import cost
+-   Lucy
+-   Prettier
+-   Live Share
