@@ -41,3 +41,4 @@ results in
 -   Lucy
 -   Prettier
 -   Live Share
+-   Live server
